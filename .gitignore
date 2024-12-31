@@ -1,0 +1,12 @@
+﻿.vs/
+*.suo
+*.user
+*.cache
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.userosscache
+*.sln.docstates
